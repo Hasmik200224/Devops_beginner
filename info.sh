@@ -12,3 +12,5 @@ df -h
 echo "Network Information"
 ip a
 
+echo "User information"
+whoami
